@@ -2,3 +2,4 @@
 0558. ✨ feat: enable dark mode toggle
 0123. ✨ feat: implement quiz timer feature
 0825. 🔧 refactor: split large controller into smaller functions
+0639. 🐛 fix: correct typo in registration form
