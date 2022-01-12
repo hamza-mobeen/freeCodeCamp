@@ -205,3 +205,4 @@
 0068. 🐛 fix: fix null pointer exception on login
 0705. 🔧 refactor: refactor quiz grading logic
 0162. ♻️ chore: add GitHub actions badge
+0696. 🔧 refactor: clean up auth middleware
