@@ -8,3 +8,4 @@
 0917. ✅ test: add integration test for /submit endpoint
 0136. 🚀 perf: lazy-load components
 0693. 📚 docs: add API usage examples
+0732. ♻️ chore: add GitHub actions badge
