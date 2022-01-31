@@ -208,3 +208,4 @@
 0696. 🔧 refactor: clean up auth middleware
 0688. 🚀 perf: reduce image load time
 0081. 🐛 fix: fix null pointer exception on login
+0487. 🎨 style: reformat files with black
