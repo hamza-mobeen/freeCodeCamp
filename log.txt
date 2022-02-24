@@ -212,3 +212,4 @@
 0350. 🚀 perf: cache repeated calculations
 0015. ✨ feat: implement quiz timer feature
 0079. 🐛 fix: correct typo in registration form
+0390. 🎨 style: standardize quote style
