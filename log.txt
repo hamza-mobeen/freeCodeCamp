@@ -14,3 +14,4 @@
 0099. 🚀 perf: reduce image load time
 0749. ✨ feat: support email verification
 0274. 🔧 refactor: refactor quiz grading logic
+0697. ♻️ chore: bump dependencies
