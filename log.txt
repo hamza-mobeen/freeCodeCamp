@@ -15,3 +15,4 @@
 0749. ✨ feat: support email verification
 0274. 🔧 refactor: refactor quiz grading logic
 0697. ♻️ chore: bump dependencies
+0349. ✅ test: increase coverage on auth module
