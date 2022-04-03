@@ -19,3 +19,4 @@
 0620. ✨ feat: implement quiz timer feature
 0458. ✨ feat: create admin dashboard
 0008. 🚀 perf: reduce image load time
+0181. ♻️ chore: add GitHub actions badge
