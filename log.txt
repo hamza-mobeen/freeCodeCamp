@@ -217,3 +217,4 @@
 0007. 🎨 style: rename variables for clarity
 0673. 🐛 fix: correct typo in registration form
 0937. 🐛 fix: handle 500 error in quiz API
+0976. ✨ feat: implement quiz timer feature
