@@ -220,3 +220,4 @@
 0976. ✨ feat: implement quiz timer feature
 0656. 🎨 style: apply consistent indentation
 0929. ✨ feat: support email verification
+0444. ✅ test: add unit test for quiz service
