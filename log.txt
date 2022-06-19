@@ -227,3 +227,4 @@
 0922. 📚 docs: write FAQ section
 0432. 🎨 style: apply consistent indentation
 0943. 🎨 style: rename variables for clarity
+0630. 🚀 perf: lazy-load components
