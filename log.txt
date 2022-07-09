@@ -232,3 +232,4 @@
 0474. ✅ test: add unit test for quiz service
 0733. 🐛 fix: fix null pointer exception on login
 0204. 🎨 style: standardize quote style
+0303. 🎨 style: rename variables for clarity
