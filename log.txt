@@ -33,3 +33,4 @@
 0147. ♻️ chore: bump dependencies
 0725. 🚀 perf: lazy-load components
 0463. 🚀 perf: reduce image load time
+0017. ✅ test: mock database connection in test suite
