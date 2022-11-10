@@ -38,3 +38,4 @@
 0079. 🐛 fix: correct typo in registration form
 0432. 🎨 style: apply consistent indentation
 0771. 🚀 perf: cache repeated calculations
+0813. 🔧 refactor: organize models into subfolders
