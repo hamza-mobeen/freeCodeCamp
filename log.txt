@@ -41,3 +41,4 @@
 0813. 🔧 refactor: organize models into subfolders
 0022. 📚 docs: document token refresh logic
 0646. ✅ test: test user registration edge cases
+0207. 🐛 fix: prevent crash on empty input
