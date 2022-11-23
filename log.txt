@@ -247,3 +247,4 @@
 0459. 🔧 refactor: organize models into subfolders
 0960. ✅ test: increase coverage on auth module
 0997. ✅ test: increase coverage on auth module
+0846. ✨ feat: implement quiz timer feature
