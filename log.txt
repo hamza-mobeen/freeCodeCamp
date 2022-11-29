@@ -43,3 +43,4 @@
 0646. ✅ test: test user registration edge cases
 0207. 🐛 fix: prevent crash on empty input
 0144. ✅ test: increase coverage on auth module
+0221. ✨ feat: add user authentication
