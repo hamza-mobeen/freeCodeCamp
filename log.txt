@@ -49,3 +49,4 @@
 0409. 🚀 perf: lazy-load components
 0132. ✅ test: add unit test for quiz service
 0203. 🚀 perf: lazy-load components
+0994. 🚀 perf: reduce image load time
