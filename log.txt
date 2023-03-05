@@ -54,3 +54,4 @@
 0658. 🎨 style: rename variables for clarity
 0584. 🚀 perf: lazy-load components
 0613. 🐛 fix: prevent crash on empty input
+0116. ✨ feat: support email verification
