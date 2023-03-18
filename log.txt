@@ -260,3 +260,4 @@
 0607. 🐛 fix: prevent crash on empty input
 0184. 📚 docs: improve code comments in utils
 0378. 🐛 fix: prevent crash on empty input
+0147. ♻️ chore: bump dependencies
