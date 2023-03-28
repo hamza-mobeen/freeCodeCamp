@@ -56,3 +56,4 @@
 0613. 🐛 fix: prevent crash on empty input
 0116. ✨ feat: support email verification
 0400. 🐛 fix: fix null pointer exception on login
+0412. ✅ test: increase coverage on auth module
