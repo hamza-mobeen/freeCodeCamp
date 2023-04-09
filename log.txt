@@ -59,3 +59,4 @@
 0412. ✅ test: increase coverage on auth module
 0140. 🐛 fix: handle 500 error in quiz API
 0867. 🔧 refactor: refactor quiz grading logic
+0065. ✅ test: add integration test for /submit endpoint
