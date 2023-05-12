@@ -268,3 +268,4 @@
 0152. ✨ feat: add user authentication
 0519. 📚 docs: document token refresh logic
 0075. ✅ test: mock database connection in test suite
+0354. 📚 docs: add API usage examples
