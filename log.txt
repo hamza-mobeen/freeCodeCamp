@@ -272,3 +272,4 @@
 0753. 🔧 refactor: remove redundant code blocks
 0814. 🔧 refactor: remove redundant code blocks
 0455. ♻️ chore: clean up unused files
+0117. ✅ test: increase coverage on auth module
