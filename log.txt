@@ -280,3 +280,4 @@
 0052. 🎨 style: standardize quote style
 0561. 📚 docs: write FAQ section
 0894. ✅ test: add integration test for /submit endpoint
+0918. ✨ feat: enable dark mode toggle
