@@ -78,3 +78,4 @@
 0719. 🎨 style: apply consistent indentation
 0443. 🎨 style: standardize quote style
 0634. 🎨 style: reformat files with black
+0812. 🔧 refactor: refactor quiz grading logic
