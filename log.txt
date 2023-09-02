@@ -283,3 +283,4 @@
 0918. ✨ feat: enable dark mode toggle
 0990. ♻️ chore: rename env.example
 0298. ♻️ chore: update .gitignore
+0704. 🚀 perf: cache repeated calculations
