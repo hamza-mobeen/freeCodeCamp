@@ -88,3 +88,4 @@
 0423. ✅ test: mock database connection in test suite
 0908. ♻️ chore: bump dependencies
 0309. 🔧 refactor: refactor quiz grading logic
+0291. 📚 docs: write FAQ section
