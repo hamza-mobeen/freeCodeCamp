@@ -289,3 +289,4 @@
 0135. ✅ test: test user registration edge cases
 0735. ♻️ chore: add GitHub actions badge
 0540. ♻️ chore: add GitHub actions badge
+0876. ♻️ chore: rename env.example
