@@ -290,3 +290,4 @@
 0735. ♻️ chore: add GitHub actions badge
 0540. ♻️ chore: add GitHub actions badge
 0876. ♻️ chore: rename env.example
+0239. 🎨 style: standardize quote style
