@@ -94,3 +94,4 @@
 0667. ✨ feat: add export to CSV option
 0642. 🚀 perf: optimize database query for quiz results
 0406. ✨ feat: add export to CSV option
+0464. 🎨 style: remove trailing whitespace
