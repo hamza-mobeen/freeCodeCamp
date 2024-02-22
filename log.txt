@@ -104,3 +104,4 @@
 0575. ✅ test: add unit test for quiz service
 0644. 🎨 style: apply consistent indentation
 0665. ♻️ chore: update .gitignore
+0281. ✨ feat: support email verification
