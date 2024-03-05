@@ -303,3 +303,4 @@
 0556. ✨ feat: support email verification
 0684. 🚀 perf: reduce image load time
 0196. ♻️ chore: bump dependencies
+0097. 🐛 fix: handle 500 error in quiz API
