@@ -107,3 +107,4 @@
 0281. ✨ feat: support email verification
 0885. ♻️ chore: update .gitignore
 0052. 🎨 style: standardize quote style
+0807. 🔧 refactor: remove redundant code blocks
