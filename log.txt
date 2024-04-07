@@ -110,3 +110,4 @@
 0807. 🔧 refactor: remove redundant code blocks
 0095. ✅ test: mock database connection in test suite
 0636. ✅ test: increase coverage on auth module
+0985. 📚 docs: document token refresh logic
