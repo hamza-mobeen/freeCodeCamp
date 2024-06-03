@@ -313,3 +313,4 @@
 0499. 🎨 style: reformat files with black
 0614. 🚀 perf: reduce image load time
 0086. 🐛 fix: correct typo in registration form
+0424. ✨ feat: add user authentication
