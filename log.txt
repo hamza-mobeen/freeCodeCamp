@@ -120,3 +120,4 @@
 0180. ✨ feat: add export to CSV option
 0797. 📚 docs: add API usage examples
 0401. 🚀 perf: reduce image load time
+0900. 🐛 fix: handle 500 error in quiz API
