@@ -122,3 +122,4 @@
 0401. 🚀 perf: reduce image load time
 0900. 🐛 fix: handle 500 error in quiz API
 0481. ✅ test: add unit test for quiz service
+0194. 🎨 style: standardize quote style
