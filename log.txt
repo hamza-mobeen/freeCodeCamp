@@ -129,3 +129,4 @@
 0511. 🐛 fix: fix broken CSS in mobile view
 0506. 🐛 fix: handle 500 error in quiz API
 0287. 📚 docs: write FAQ section
+0076. 🎨 style: reformat files with black
