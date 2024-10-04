@@ -328,3 +328,4 @@
 0032. 🎨 style: apply consistent indentation
 0837. 🚀 perf: cache repeated calculations
 0755. 🚀 perf: cache repeated calculations
+0357. ✅ test: add unit test for quiz service
