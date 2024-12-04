@@ -140,3 +140,4 @@
 0122. ✨ feat: support email verification
 0928. 🎨 style: apply consistent indentation
 0169. 📚 docs: add API usage examples
+0886. ♻️ chore: clean up unused files
