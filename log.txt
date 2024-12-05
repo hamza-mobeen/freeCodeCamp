@@ -335,3 +335,4 @@
 0029. 🚀 perf: lazy-load components
 0662. ♻️ chore: clean up unused files
 0825. 🔧 refactor: split large controller into smaller functions
+0095. ✅ test: mock database connection in test suite
