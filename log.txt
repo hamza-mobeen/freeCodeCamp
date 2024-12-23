@@ -338,3 +338,4 @@
 0095. ✅ test: mock database connection in test suite
 0804. ♻️ chore: add GitHub actions badge
 0094. 📚 docs: document token refresh logic
+0947. 📚 docs: write FAQ section
