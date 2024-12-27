@@ -339,3 +339,4 @@
 0804. ♻️ chore: add GitHub actions badge
 0094. 📚 docs: document token refresh logic
 0947. 📚 docs: write FAQ section
+0702. ✨ feat: add user authentication
