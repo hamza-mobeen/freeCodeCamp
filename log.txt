@@ -344,3 +344,4 @@
 0056. ♻️ chore: rename env.example
 0274. 🔧 refactor: refactor quiz grading logic
 0788. 📚 docs: add API usage examples
+0050. ✨ feat: enable dark mode toggle
