@@ -353,3 +353,4 @@
 0181. ♻️ chore: add GitHub actions badge
 0817. 🔧 refactor: remove redundant code blocks
 0916. ♻️ chore: bump dependencies
+0448. 🐛 fix: correct typo in registration form
