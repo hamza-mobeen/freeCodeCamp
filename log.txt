@@ -160,3 +160,4 @@
 0176. 🔧 refactor: remove redundant code blocks
 0538. 🐛 fix: fix broken CSS in mobile view
 0272. 🔧 refactor: remove redundant code blocks
+0294. 🐛 fix: prevent crash on empty input
