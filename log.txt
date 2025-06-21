@@ -169,3 +169,4 @@
 0773. 📚 docs: document token refresh logic
 0929. ✨ feat: support email verification
 0045. 🎨 style: apply consistent indentation
+0427. ✅ test: mock database connection in test suite
