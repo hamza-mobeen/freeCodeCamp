@@ -180,3 +180,4 @@
 0594. 🎨 style: reformat files with black
 0607. 🐛 fix: prevent crash on empty input
 0060. ♻️ chore: clean up unused files
+0710. 🐛 fix: fix broken CSS in mobile view
