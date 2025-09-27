@@ -185,3 +185,4 @@
 0940. 📚 docs: document token refresh logic
 0254. 🚀 perf: reduce image load time
 0308. 🚀 perf: reduce image load time
+0058. ♻️ chore: add GitHub actions badge
