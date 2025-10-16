@@ -379,3 +379,4 @@
 0891. ✨ feat: create admin dashboard
 0530. 🔧 refactor: refactor quiz grading logic
 0667. ✨ feat: add export to CSV option
+0852. ✨ feat: enable dark mode toggle
