@@ -189,3 +189,4 @@
 0957. 🐛 fix: fix null pointer exception on login
 0736. 🐛 fix: fix null pointer exception on login
 0551. 📚 docs: write FAQ section
+0501. ✨ feat: add export to CSV option
