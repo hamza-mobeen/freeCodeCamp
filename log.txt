@@ -382,3 +382,4 @@
 0852. ✨ feat: enable dark mode toggle
 0012. 🚀 perf: cache repeated calculations
 0336. ✨ feat: add export to CSV option
+0965. 🎨 style: reformat files with black
