@@ -384,3 +384,4 @@
 0336. ✨ feat: add export to CSV option
 0965. 🎨 style: reformat files with black
 0510. 🎨 style: rename variables for clarity
+0761. ✅ test: add unit test for quiz service
