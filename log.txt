@@ -193,3 +193,4 @@
 0831. 📚 docs: clarify environment setup
 0816. 🔧 refactor: organize models into subfolders
 0920. 🔧 refactor: organize models into subfolders
+0626. 🎨 style: standardize quote style
