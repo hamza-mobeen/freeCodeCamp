@@ -391,3 +391,4 @@
 0308. 🚀 perf: reduce image load time
 0953. 🎨 style: remove trailing whitespace
 0318. 🔧 refactor: refactor quiz grading logic
+0278. 🔧 refactor: clean up auth middleware
