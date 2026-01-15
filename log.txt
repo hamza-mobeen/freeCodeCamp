@@ -393,3 +393,4 @@
 0318. 🔧 refactor: refactor quiz grading logic
 0278. 🔧 refactor: clean up auth middleware
 0011. ✅ test: add unit test for quiz service
+0924. ✅ test: mock database connection in test suite
