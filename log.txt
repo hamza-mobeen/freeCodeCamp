@@ -195,3 +195,4 @@
 0920. 🔧 refactor: organize models into subfolders
 0626. 🎨 style: standardize quote style
 0484. 🐛 fix: handle 500 error in quiz API
+0021. ✨ feat: support email verification
